@@ -98,7 +98,7 @@ DATABASES = {
         'NAME': 'django_inmueblessql',
         'PASSWORD': 'U8LrEkjFCMDDnHiuflos6DCrzJB8ida6',
         'HOST': 'dpg-cpacgfcf7o1s73aelg60-a.frankfurt-postgres.render.com',
-        
+        'PORT': '5432',
     }
 }
 # DATABASES['default'] = dj_database_url.parse("postgres://django_inmueblessql_user:U8LrEkjFCMDDnHiuflos6DCrzJB8ida6@dpg-cpacgfcf7o1s73aelg60-a.frankfurt-postgres.render.com/django_inmueblessql")
